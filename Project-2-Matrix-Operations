@@ -1,0 +1,10 @@
+# Matrix Operations Tool
+
+## Features
+- Matrix Addition
+- Subtraction
+- Multiplication
+- Transpose
+- Determinant
+
+Built using NumPy.
